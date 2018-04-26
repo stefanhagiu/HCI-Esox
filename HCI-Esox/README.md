@@ -1,0 +1,1 @@
+This project is made as homework for the subject HCI; part of the curriculum for master degree at Faculty of Informatics "Alecsandru Ioan Cuza", Iasi.
